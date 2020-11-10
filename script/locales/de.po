@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+# index.js:63
+msgid "Offen does not support this site: %s"
+msgstr ""
+
+# index.js:64
+msgid "No data will be collected. Find out more at \"https://www.offen.dev\"."
+msgstr ""
+
+# src/check-support.js:15
+msgid "Browser does not support IndexedDB which is required"
+msgstr ""

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+
+# index.js:27
+# index.js:57
+msgid "This page is using Offen to collect usage statistics."
+msgstr ""
+
+# index.js:28
+msgid "You can access and manage all of your personal data or opt-out at \"%s/auditorium/\"."
+msgstr ""
+
+# index.js:29
+# index.js:60
+msgid "Find out more about Offen at \"https://www.offen.dev\"."
+msgstr ""
+
+# index.js:58
+msgid "Your setup prevents third party cookies or you have disabled it in your browser's settings."
+msgstr ""
+
+# index.js:59
+msgid "No usage data will be collected."
+msgstr ""
+
+# src/user-consent.js:102
+msgid "Thanks for your help to make this website better."
+msgstr ""
+
+# src/user-consent.js:105
+msgid "To manage your usage data <a class=\"b normal link dim dark-gray\" target=\"_blank\" rel=\"noopener\" href=\"%s\">open the Auditorium.</a>"
+msgstr ""
+
+# src/user-consent.js:109
+msgid "Continue"
+msgstr ""
+
+# src/user-consent.js:116
+msgid "Learn more"
+msgstr ""
+
+# src/user-consent.js:121
+msgid "We only access usage data with your consent."
+msgstr ""
+
+# src/user-consent.js:124
+msgid "You can opt out and delete any time."
+msgstr ""
+
+# src/user-consent.js:130
+msgid "I allow"
+msgstr ""
+
+# src/user-consent.js:135
+msgid "I don't allow"
+msgstr ""
+
+# src/middleware.js:36
+msgid "This page is using Offen to collect usage statistics."
+msgstr ""
+
+# src/middleware.js:37
+msgid "You have opted out of data collection, no data is being collected."
+msgstr ""
+
+# src/middleware.js:38
+msgid "Find out more about Offen at \"%s\""
+msgstr ""

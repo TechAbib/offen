@@ -1,0 +1,106 @@
+#. ~ line 5 "public/emails.go.html"
+msgid "Reset your password"
+msgstr ""
+
+#. ~ line 9 "public/emails.go.html"
+#. ~ line 23 "public/emails.go.html"
+#. ~ line 37 "public/emails.go.html"
+msgid "Hi!"
+msgstr ""
+
+#. ~ line 11 "public/emails.go.html"
+msgid ""
+"You have requested to reset your password. To do so, visit the following "
+"link:"
+msgstr ""
+
+#. ~ line 15 "public/emails.go.html"
+msgid ""
+"The link is valid for 24 hours after this email has been sent. In case you "
+"have missed this deadline, you can always request a new link."
+msgstr ""
+
+#. ~ line 19 "public/emails.go.html"
+msgid "You have been invited to join Offen"
+msgstr ""
+
+#. ~ line 25 "public/emails.go.html"
+msgid ""
+"You have been invited to Offen. To accept your invite, visit the following "
+"link:"
+msgstr ""
+
+#. ~ line 29 "public/emails.go.html"
+msgid ""
+"The link is valid for 7 days after this email has been sent. In case you "
+"have missed this deadline, request a new invite."
+msgstr ""
+
+#. ~ line 33 "public/emails.go.html"
+msgid "You have been added to additional accounts on Offen"
+msgstr ""
+
+#. ~ line 39 "public/emails.go.html"
+msgid "You have been added to the following new accounts on Offen:"
+msgstr ""
+
+#. ~ line 45 "public/emails.go.html"
+msgid ""
+"You automatically gain access to these accounts the next time you log in."
+msgstr ""
+
+#. ~ line 31 "public/index.go.html"
+msgid "It seems like your browser has JavaScript disabled."
+msgstr ""
+
+#. ~ line 36 "public/index.go.html"
+msgid "Offen requires JavaScript to function properly."
+msgstr ""
+
+#. ~ line 39 "public/index.go.html"
+msgid ""
+"Offen is a fair and open source analytics software. It is installed on the "
+"website that linked you here."
+msgstr ""
+
+#. ~ line 42 "public/index.go.html"
+msgid ""
+"For Offen to work, your browser has to allow JavaScript and accept cookies. "
+"Please change your browser settings and reload this page. Subsequently, "
+"Offen will ask for your consent before collecting any usage data."
+msgstr ""
+
+#. ~ line 49 "public/index.go.html"
+msgid "Offen"
+msgstr ""
+
+#. ~ line 54 "public/index.go.html"
+msgid "Fair web analytics"
+msgstr ""
+
+#. ~ line 59 "public/index.go.html"
+msgid "Found an issue, need help or want to add something?"
+msgstr ""
+
+#. ~ line 59 "public/index.go.html"
+msgid "Tweet, "
+msgstr ""
+
+#. ~ line 59 "public/index.go.html"
+msgid "email "
+msgstr ""
+
+#. ~ line 59 "public/index.go.html"
+msgid "or file an "
+msgstr ""
+
+#. ~ line 59 "public/index.go.html"
+msgid "issue."
+msgstr ""
+
+#. ~ line 169 "public/index.go.html"
+msgid ""
+"Offen is an open alternative to common web analytics tools. Operators gain "
+"insights while users have full access to their data. Lightweight, self "
+"hosted and free."
+msgstr ""
